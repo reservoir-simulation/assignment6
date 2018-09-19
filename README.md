@@ -1,7 +1,5 @@
 # Homework Assignment 6
 
-[![Build Status](https://travis-ci.com/PGE323M/assignment6.svg?token=SnMGq692xXXqxzyE6QSj&branch=master)](https://travis-ci.com/PGE323M/assignment6)
-
 Open the [Assignment 6 Jupyter Notebook](assignment6.ipynb) and follow the instructions.
 
 ## Testing
